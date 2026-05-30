@@ -2,6 +2,7 @@
 <img width="1920" height="1080" alt="Large Numerical Models (1)" src="https://github.com/user-attachments/assets/8142e07b-c555-4c9c-b113-81883d2135fb" />
 
 A deep dive into **Large Numerical Models (LNMs)**, **TabPFN3**, and transformer-based in-context learning for tabular data.
+[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube&style=for-the-badge)](https://youtu.be/8XQfaTow-Mw)
 
 This repository accompanies the YouTube video:
 
